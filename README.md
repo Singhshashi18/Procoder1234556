@@ -3,7 +3,7 @@
 👋 Hi, I'm Nikunj Rustagi
 Full Stack Developer | Ex-Startup Strategist @Proofr | Founder @Venture Synopsis
 🚀 Building at the intersection of tech, product, and storytelling.
-
+ 
 🔭 I’m currently working on:
 Venture Synopsis – a curated content platform decoding startup strategies, founder journeys, and market breakdowns for students and future builders.
 
